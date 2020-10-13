@@ -1,0 +1,51 @@
+.menubar{
+   z-index: 1;
+   
+    
+}
+.div_image{
+    z-index: -19;
+   
+}
+.div-image-and-menu{
+    
+}
+.button-dev{
+    
+      z-index:20 ;
+    
+    margin-top: -155px;
+    text-align: center;
+}
+.btn{
+      width: 250px;
+}
+.mayiintroduce{
+    top: -370px;
+}
+.hr-dark{
+    width: 350px;
+    height: 10px;
+}
+.card-img-top{
+    width: 60px;
+    height: 60px;
+}
+.text-area{
+    width: 620px;
+    height: 300px;
+}
+.form-control::-webkit-input-placeholder {
+  color: rgb(85, 83, 83);
+  
+}
+.div-purple{
+   top: -50px;
+    height: 400px;
+    background-color: blueviolet;
+    z-index: -100;
+   
+}
+.bg-color{
+    background-color: rgb(209, 207, 207);
+}
